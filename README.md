@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b48bd14-f375-4cab-9258-068a837627e0)## Виконав самостійно Шевченко Артем РПЗ-23А
+## Виконав самостійно Шевченко Артем РПЗ-23А
 # Laboratory Work Report № 10
 ## Topic: "Changing File Owners and Access Rights in Linux. Special Directories and Files in Linux"
 
@@ -64,20 +64,27 @@
 3. **Create a new file accessible for reading, editing, and executing by the file owner.**                                                                                                                                                                                                      ![image](https://github.com/user-attachments/assets/fa508b81-65e5-43bd-8aad-47b37a926da4)
 
 
-4. **Grant read and execute permissions to the group owner without edit permissions.**                                                                                                                                                                                                         ![image](https://github.com/user-attachments/assets/f2e81ff6-5a5e-4969-8a1c-8c4fe2dae349)
+4. **Grant read and execute permissions to the group owner without edit permissions.**
+![image](https://github.com/user-attachments/assets/f2e81ff6-5a5e-4969-8a1c-8c4fe2dae349)                                                                                                                                                                                                          
 
 
-5. **Deny access to other users.**Denying access to other users (already done in the previous point via chmod 750)                                                                                                                                                                                 Denying access to other users (already done in the previous point via chmod 750)
+5 **Deny access to other users.**Denying access to other users (already done in the previous point via chmod 750)                                                                                                                                                                                 Denying access to other users (already done in the previous point via chmod 750)
 
-6. **Create directories with specified access rights.**                                                                                                                                                                                                                                          ![image](https://github.com/user-attachments/assets/9b917436-9178-498f-92ca-482dc2b48aa1)
-
-
-7. **Create an empty file named `emptyfile` and modify its permissions.**                                                                                                                                                                                                                       ![image](https://github.com/user-attachments/assets/e2274b74-34d9-425c-bbcb-d46b9f7d2c84)
+6. **Create directories with specified access rights.**
+  ![image](https://github.com/user-attachments/assets/9b917436-9178-498f-92ca-482dc2b48aa1)                                                                                                                                                                                                                                         
 
 
-8. **Create a directory where all files automatically belong to your user group.**                                                                                                                                                                                                              ![image](https://github.com/user-attachments/assets/f775ff4f-1903-47ef-894d-fa29322bfd72)      
-9. **Create hard and symbolic links for files.**
-10. **Test file access and deletion by other users.**
+7. **Create an empty file named `emptyfile` and modify its permissions.**
+![image](https://github.com/user-attachments/assets/e2274b74-34d9-425c-bbcb-d46b9f7d2c84)                                                                                                                                                                                                                      
+
+
+9. **Create a directory where all files automatically belong to your user group.**
+  ![image](https://github.com/user-attachments/assets/f775ff4f-1903-47ef-894d-fa29322bfd72)                                                                                                                                                                                                  
+10. **Create hard and symbolic links for files.**
+    ![image](https://github.com/user-attachments/assets/fd6ef93f-b8d1-4bd1-b058-442cce8a6a97)
+
+11. **Test file access and deletion by other users.**
+![image](https://github.com/user-attachments/assets/97647bdf-933b-4e21-b959-eff79a208818)
 
 ### Control Questions
 1. **Provide examples of changing access rights using the symbolic method.**
